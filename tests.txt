@@ -1,0 +1,5 @@
+git clone https://github.com/jgigault/42FileChecker
+
+git clone https://github.com/alelievr/libft-unit-test.git
+
+git clone https://github.com/jtoty/Libftest.git
